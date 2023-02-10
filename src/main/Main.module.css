@@ -1,0 +1,18 @@
+.mainBlock {
+    background-color: hotpink;
+    height: 100vh;
+}
+
+.text {
+    background-color: slategrey;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: slategrey;
+}
+
+.projects {
+    border: 1px solid;
+}

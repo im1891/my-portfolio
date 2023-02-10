@@ -1,0 +1,36 @@
+.contactsBlock {
+    min-height: 100vh;
+    height: 1px;
+    background-color: mediumpurple;
+}
+
+.contactsContainer {
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contactsContainer h2 {
+    background-color: red;
+}
+
+.contacts {
+    border: 1px solid;
+    width: 100%;
+}
+
+.contactsForm {
+    width: 250px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.sendButton {
+    padding: 5px 10px;
+    border: 1px solid gray;
+    background-color: buttonface;
+    text-decoration: none;
+    color: black;
+}
